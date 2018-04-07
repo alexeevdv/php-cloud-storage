@@ -1,0 +1,17 @@
+{
+    "name": "alexeevdv/storage-stream",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Dmitry Alekseev",
+            "email": "mail@alexeevdv.ru"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "alexeevdv\\storage\\stream\\": ""
+        }
+    },
+    "require": {}
+}
